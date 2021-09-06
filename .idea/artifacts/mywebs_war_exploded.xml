@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mywebs:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/mywebs_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="mywebs/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mywebs" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="web_lib" />
+          <element id="library" level="project" name="commons-dbutils-1.3" />
+          <element id="library" level="project" name="junit4" />
+          <element id="library" level="project" name="taglibs-standard-impl-1.2.1" />
+          <element id="library" level="project" name="commons-beanutils-1.8.0" />
+          <element id="library" level="project" name="kaptcha-2.3.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

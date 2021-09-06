@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/html/add.html" value="file://$PROJECT_DIR$/web/html" />
+        <entry key="file://$PROJECT_DIR$/web/html/all.jsp" value="file://$PROJECT_DIR$/web/html" />
+        <entry key="file://$PROJECT_DIR$/web/html/datapage.jsp" value="file://$PROJECT_DIR$/web/html" />
+        <entry key="file://$PROJECT_DIR$/web/html/index.html" value="file://$PROJECT_DIR$/web/html" />
+        <entry key="file://$PROJECT_DIR$/web/html/index_m.jsp" value="file://$PROJECT_DIR$/web/html" />
+        <entry key="file://$PROJECT_DIR$/web/html/login.html" value="file://$PROJECT_DIR$/web/html" />
+        <entry key="file://$PROJECT_DIR$/web/html/login.jsp" value="file://$PROJECT_DIR$/web/html" />
+        <entry key="file://$PROJECT_DIR$/web/html/query.html" value="file://$PROJECT_DIR$/web/html" />
+        <entry key="file://$PROJECT_DIR$/web/html/register.html" value="file://$PROJECT_DIR$/web/html" />
+        <entry key="file://$PROJECT_DIR$/web/html/uploadSuccess.html" value="file://$PROJECT_DIR$/web/html" />
+      </map>
+    </option>
+  </component>
+</project>
