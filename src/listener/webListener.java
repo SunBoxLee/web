@@ -16,6 +16,7 @@ public class webListener implements ServletContextListener {
     public void contextDestroyed(ServletContextEvent sce) {
         while (DriverManager.getDrivers().hasMoreElements())
         {
+            //
             try {
                 DriverManager.deregisterDriver(DriverManager.getDrivers().nextElement());
             }
